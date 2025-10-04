@@ -41,9 +41,10 @@ def main():
     sorgulanabilir_sutunlar = [
         'Analiz Matriksi',
         'Analiz Amacı (ICH Eşdeğeri)',
-        'Molekül Adı',
+        'Molekül Adı' , 
+        'Molekül Türü' , 
         'Kullanılan Enstrüman Kategorisi'
-        'Molekül Tipi'
+
     ]
 
     # Tüm sütunlardan seçilen değerleri tutmak için boş bir sözlük oluştur
