@@ -42,7 +42,7 @@ def main():
         'Analiz Matriksi',
         'Analiz Amacı (ICH Eşdeğeri)',
         'Molekül Adı' , 
-        'Molekül Türü' , 
+        'Molekül Tipi' , 
         'Kullanılan Enstrüman Kategorisi'
 
     ]
